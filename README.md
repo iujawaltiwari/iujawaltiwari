@@ -2,7 +2,7 @@
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
 <p align="center">
-<a href="https://github.com/iujawaltiwari" target="blank">
+<a href="https://www.linkedin.com/in/ujawaltiwarig/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
 </a>
   &nbsp;&nbsp;
